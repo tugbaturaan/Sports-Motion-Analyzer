@@ -115,7 +115,7 @@ gibi özellikler eklenebilir.
 Sports-Motion-Analyzer/
 │
 ├── README.md
-├── sports_motion_analyzer.ipynb
+├── Sports_Motion_Analyzer.ipynb
 │
 ├── data/
 │   ├── squat_knee_angle_analysis.csv
