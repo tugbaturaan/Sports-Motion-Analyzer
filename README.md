@@ -131,3 +131,7 @@ Sports-Motion-Analyzer/
 ##  Proje Notu
 
 Bu proje, Yönetim Bilişim Sistemleri kapsamında veri analizi, yapay zekâ ve bilgisayarlı görü teknolojilerinin gerçek bir problem alanına uygulanmasını deneyimlemek amacıyla geliştirilmiş bir prototiptir.
+## 📊 Proje Sunumu
+
+[Sports Motion Analyzer — Sunumu Görüntüle](Sports-Motion-Analyzer/presentation/Sports_Motion_Analyzer_Sunum.pdf)
+
