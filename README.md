@@ -115,15 +115,17 @@ gibi özellikler eklenebilir.
 Sports-Motion-Analyzer/
 │
 ├── README.md
-├── Sports_Motion_Analyzer.ipynb
 │
-├── data/
-│   ├── squat_knee_angle_analysis.csv
-│   └── squat_analysis_summary.csv
-│
-└── results/
-    ├── knee_angle_over_time.png
-    └── squat_comparison.png
+└── Sports-Motion-Analyzer/
+    ├── Sports_Motion_Analyzer.ipynb
+    │
+    ├── data/
+    │   ├── squat_knee_angle_analysis.csv
+    │   └── squat_analysis_summary.csv
+    │
+    └── results/
+        ├── knee_angle_over_time.png
+        └── squat_comparison.png
 ```
 
 ##  Proje Notu
