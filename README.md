@@ -69,13 +69,13 @@ Bu değer, tek başına performans artışı veya düşüşü olarak yorumlanmam
 
 ### Diz Açısının Zaman İçindeki Değişimi
 
-![Knee Angle Over Time](knee_angle_over_time.png)
+![Knee Angle Over Time](Sports-Motion-Analyzer/results/knee_angle_over_time.png)
 
 Grafik, squat hareketi boyunca diz açısının zaman içerisindeki değişimini göstermektedir.
 
 ### Squat Tekrarlarının Karşılaştırılması
 
-![Squat Comparison](squat_comparison.png)
+![Squat Comparison](Sports-Motion-Analyzer/results/squat_comparison.png)
 
 Bu grafik, tespit edilen her squat tekrarındaki minimum diz açılarını karşılaştırmaktadır.
 
